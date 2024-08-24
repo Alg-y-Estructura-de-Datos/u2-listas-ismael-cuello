@@ -1,5 +1,7 @@
-C:/Users/ismae/facultad/progra3/listas-progra3/cmake-build-debug/CMakeFiles/Ej1.dir
-C:/Users/ismae/facultad/progra3/listas-progra3/cmake-build-debug/CMakeFiles/Ej2.dir
-C:/Users/ismae/facultad/progra3/listas-progra3/cmake-build-debug/CMakeFiles/Ej3.dir
-C:/Users/ismae/facultad/progra3/listas-progra3/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/ismae/facultad/progra3/listas-progra3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Isma/facultad/progra3/listas/cmake-build-debug/CMakeFiles/Ej1.dir
+C:/Users/Isma/facultad/progra3/listas/cmake-build-debug/CMakeFiles/Ej2.dir
+C:/Users/Isma/facultad/progra3/listas/cmake-build-debug/CMakeFiles/Ej3.dir
+C:/Users/Isma/facultad/progra3/listas/cmake-build-debug/CMakeFiles/EJ4.dir
+C:/Users/Isma/facultad/progra3/listas/cmake-build-debug/CMakeFiles/Ej5.dir
+C:/Users/Isma/facultad/progra3/listas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Isma/facultad/progra3/listas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
