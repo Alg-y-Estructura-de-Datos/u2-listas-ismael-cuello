@@ -7,16 +7,18 @@ que no hay elementos repetidos en L1, de lo contrario imprimir ambas listas.*/
 #include "Lista/Lista.h"
 using namespace std;
 
-int elemRepetidos(Lista<int>lista)
+void elemRepetidos(Lista<int>lista)
 {   Lista<int>lista2;
-    int a;
-    for (int i=0;i<lista.getTamanio();i++)
-    { a=lista.getDato(i);
-        if (a == lista.getDato(i+1))
+    int digito=0;
+    for (int i=0;i<=lista.getTamanio();i++)
+    { digito=lista.getDato(i);
+        if (digito == lista.getDato(i))
         {
-            lista2.insertarUltimo(a);
+            lista2.insertarUltimo(lista.getDato(i));
         }
     }
+    cout<<"los elementos repetidos formaron la siguiente lista: ";
+    lista2.print();
 
 }
 int main()
