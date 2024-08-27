@@ -8,3 +8,6 @@ add_executable(Ej2 Ej2.cpp)
 add_executable(Ej3 Ej3.cpp)
 add_executable(EJ4 Ej4.cpp)
 add_executable(Ej5 Ej5.cpp)
+add_executable(Ej8 Ej8.cpp)
+add_executable(Ej9 Ej9.cpp
+        Lista.h)
